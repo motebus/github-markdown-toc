@@ -6,7 +6,7 @@ GitHub's wiki page and **don't want to install any additional software**.
 
 It's my try to fix a problem:
 
-  * [github/issues/215](https://github.com/isaacs/github/issues/215)
+  * [gh-md-toc](https://github.com/isaacs/github/issues/215)
 
 gh-md-toc is able to process:
 
